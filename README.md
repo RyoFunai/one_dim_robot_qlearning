@@ -22,4 +22,5 @@ python3 one_dim_robot_qlearning.py
 ```
 学習が終わると、以下のようなアニメーションが出力されます。
 ランダムに生成されるゴールをロボットが追いかけます。
+
 [![](https://img.youtube.com/vi/eABil7OW-uQ/0.jpg)](https://www.youtube.com/watch?v=eABil7OW-uQ)
